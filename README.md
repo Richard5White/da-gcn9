@@ -1,5 +1,3 @@
-# 🚀 Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs
-
 
 
 ## 🔎 Overview
