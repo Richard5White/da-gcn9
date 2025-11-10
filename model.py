@@ -9,7 +9,7 @@ from dataset import DataSet
 from utils import BPRLoss, EmbLoss, ContrastiveLoss, init_embedding
 
 
-#这是论文源代码
+
 class SpAdjEdgeDrop(nn.Module):
     def __init__(self):
         super(SpAdjEdgeDrop, self).__init__()
